@@ -1,0 +1,13 @@
+# Terraform
+setup/terraform/.terraform/
+setup/terraform/terraform.tfstate
+setup/terraform/terraform.tfstate.backup
+setup/terraform/.terraform.lock.hcl
+*.tfvars
+
+# Node
+starter/frontend/node_modules/
+
+# Python
+starter/backend/__pycache__/
+starter/backend/.venv/
